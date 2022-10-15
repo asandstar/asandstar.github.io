@@ -19,7 +19,7 @@ git clone https://github.com/username/username.github.io
 
 cd username.github.io
 
-echo "官方文档 https://pages.github.com/" > index.html
+echo "test" > index.html
 
 git add --all
 
